@@ -1,6 +1,14 @@
 ---
 
-# 🏥 AI Diagnostics Agent – Early Cancer Discovery
+# 🏥 AI Diagnostics Agent – Early Cancer Discovery  
+
+![Python](https://img.shields.io/badge/python-3.9%2B-blue?logo=python)  
+![Gradio](https://img.shields.io/badge/Gradio-5.44.0-orange?logo=gradio)  
+![Torch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch)  
+![Status](https://img.shields.io/badge/status-Research%20Demo-yellow)  
+![License](https://img.shields.io/badge/license-MIT-green)  
+
+
 
 ⚠️ **Research demo only. Not for clinical use.**
 
