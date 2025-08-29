@@ -99,7 +99,3 @@ This project is a **research demo only**.
 It is **not a medical device** and **must not be used for clinical decision-making**.
 
 ---
-
-✨ Done! Just copy-paste this into your GitHub **README.md** file (edit it directly in the web UI).
-
-Would you like me to also make a **GitHub Shields badge row** at the top (Python version, Gradio version, License) so it looks extra professional?
